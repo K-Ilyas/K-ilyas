@@ -31,4 +31,5 @@
 ### :zap: Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-ilyas&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/K-ilyas)
 
+![](https://komarev.com/ghpvc/?username=K-ilyas&label=Visitors+Count&color=brightgreen)
 
