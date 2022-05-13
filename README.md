@@ -1,4 +1,4 @@
-#  Here is What I'm Working On  👋
+##  Here is What I'm Working On  👋
 
 - 🔭 I’m currently working on ... Baseless
 - 🌱 I’m currently learning ... D3.js
@@ -9,7 +9,7 @@
 - 😄 Pronouns: ... Kilyas
 - ⚡ Fun fact: ... I am half Finnish
 
-# 💻 Languages and Tools
+## 💻 Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -30,7 +30,7 @@
 ![K-ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-ilyas&show_icons=true&theme=radical&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
 
-# :zap: Most Used Languages
+## :zap: Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-ilyas&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/K-ilyas)
 
 ---
