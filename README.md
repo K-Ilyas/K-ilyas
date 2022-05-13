@@ -24,12 +24,14 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 <br />
----
-### :zap: GitHub Stats
+# :zap: GitHub Stats
   ![K-ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-ilyas&show_icons=true&theme=radical&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
----
-### :zap: Most Used Languages
+
+
+# :zap: Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-ilyas&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/K-ilyas)
+
 ---
+
 ![](https://komarev.com/ghpvc/?username=K-ilyas&label=Visitors+Count&color=brightgreen)
 
