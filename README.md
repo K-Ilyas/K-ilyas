@@ -26,6 +26,9 @@
 
 <br />
 <br />
+
+<!--START_SECTION:activity-->
+
 <details>
 
   <summary>:zap: GitHub Stats</summary>
