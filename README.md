@@ -27,7 +27,7 @@
 
 ## 📈 GitHub Stats 
 
-![K-ilyas's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=K-ilyas&repo=github-readme-stats&show_icons=true&theme=radical&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+![K-ilyas's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=K-ilyas&repo=https://github.com/K-Ilyas/github-readme-stats.git)
 
 
 ## :zap: Most Used Languages
