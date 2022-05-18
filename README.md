@@ -28,6 +28,7 @@
 ## 📈 GitHub Stats 
 
 ![K-ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-ilyas&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+[![K-ilyas's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=k-ilyas)](https://github.com/K-Ilyas/github-readme-stats)
 
 
 ## :zap: Most Used Languages
