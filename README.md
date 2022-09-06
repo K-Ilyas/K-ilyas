@@ -1,6 +1,6 @@
 ##  Here is What I'm Working On  👋
 
-- 🔭 I’m currently working as ... freelancer
+- 🔭 I’m currently working as ... Freelancer
 - 🌱 I’m currently learning ... D3.js
 - 👯 I’m looking to collaborate on ... ReactJS
 - 🤔 I’m looking for help with ... ReduxJS
