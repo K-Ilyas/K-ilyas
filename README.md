@@ -7,7 +7,7 @@
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [Linkedin Account](https://www.linkedin.com/in/ilyas-kritet-697a571b3/)
 - 😄 Pronouns: ... Kilyas
-- ⚡ Fun fact: ... I am half Finnish
+- ⚡ Fun fact: ... I am half Finished
 
 ## 💻 Languages and Tools
 
