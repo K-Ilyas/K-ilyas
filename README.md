@@ -1,5 +1,5 @@
 ## Hi there, I'm Ilyas Kritet
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Web+Developer&amp;size=30&amp;center=true&amp;width=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Software+Engineer&amp;size=30&amp;center=true&amp;width=1000)](https://git.io/typing-svg)
 ##  Here is What I'm Working On  👋
 - 🔭 I’m currently working as ... Freelancer
 - 🌱 I’m currently learning ... D3.js
