@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ilyas Kritet</h1>
 
 <div align="center">
-  <img height="350" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif"  />
+  <img height="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif"  />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Software+Engineer&amp;size=50&amp;color=00FF00&amp;center=true&amp;width=1000&amp;height=100&amp;marginTop=25)](https://git.io/typing-svg)
