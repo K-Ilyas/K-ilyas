@@ -1,4 +1,4 @@
-# Hi there, I'm Ilyas Kritet
+<h1 align="center">Hi there, I'm Ilyas Kritet</h1>
 
 <div align="center">
   <img height="350" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif"  />
@@ -6,17 +6,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Software+Engineer&amp;size=50&amp;color=00FF00&amp;center=true&amp;width=1000&amp;height=100&amp;marginTop=25)](https://git.io/typing-svg)
 
-##  Here is What I'm Working On  👋
-- 🔭 I’m currently working as ... Freelancer
-- 🌱 I’m currently learning ... IA
-- 👯 I’m looking to collaborate on ... python
-- 🤔 I’m looking for help with ... scikit-learn
-- 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... [Linkedin Account](https://www.linkedin.com/in/ilyas-kritet-697a571b3/)
-- 😄 Pronouns: ... Kilyas
-- ⚡ Fun fact: ... I am half Finished
+<h1 align="center">Here is What I'm Working On  👋</h1>
+<div align="center">
+<p>🔭 I’m currently working as ... <strong>Freelancer</strong></p>
+<p>🌱 I’m currently learning ... <strong>IA</strong></p>
+<p>👯 I’m looking to collaborate on ... <strong>python</strong></p>
+<p>🤔 I’m looking for help with ... <strong>scikit-learn</strong></p>
+<p>💬 Ask me about ... <strong>Anything</strong></p>
+<p>📫 How to reach me: ... <a href="https://www.linkedin.com/in/ilyas-kritet-697a571b3/">Linkedin Account</a></p>
+<p>😄 Pronouns: ... <strong>Kilyas</strong></p>
+<p>⚡ Fun fact: ... <strong>I am half Finished</strong></p>
 
-## 💻 Languages and Tools
+</div>
+<h1 align="center">💻 Languages-Frameworks-Tools ⚒️</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -92,22 +94,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-<br />
+<h1  align="center">📈 GitHub Stats 📈</h1>
 
-## 📈 GitHub Stats 
-
-![K-ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-ilyas&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
-
-
-## :zap: Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-ilyas&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/K-ilyas)
-
----
-
-![](https://komarev.com/ghpvc/?username=K-ilyas&label=Visitors+Count&color=brightgreen)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Ilyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Ilyas&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
 
 
-## :zap: Most Used Languages
+<h1  align="center">🐍 My Contributions 🐍</h1>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/K-Ilyas/K-Ilyas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/K-Ilyas/count.svg?"  />
+</div>
+
