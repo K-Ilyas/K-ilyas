@@ -1,10 +1,11 @@
 ## Hi there, I'm Ilyas Kritet
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Software+Engineer&amp;size=30&amp;center=true&amp;width=1000)](https://git.io/typing-svg)
+
 ##  Here is What I'm Working On  👋
 - 🔭 I’m currently working as ... Freelancer
-- 🌱 I’m currently learning ... D3.js
-- 👯 I’m looking to collaborate on ... ReactJS
-- 🤔 I’m looking for help with ... ReduxJS
+- 🌱 I’m currently learning ... IA
+- 👯 I’m looking to collaborate on ... python
+- 🤔 I’m looking for help with ... scikit-learn
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [Linkedin Account](https://www.linkedin.com/in/ilyas-kritet-697a571b3/)
 - 😄 Pronouns: ... Kilyas
