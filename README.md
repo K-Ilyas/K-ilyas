@@ -129,8 +129,8 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=K-Ilyas&style=flat-square&color=brightgreen" alt="viewers count" style="height: 40px;"/>
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/K-Ilyas/count.svg?"  />
-</div>
 
