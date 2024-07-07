@@ -19,15 +19,20 @@
 
 <div align="center"> 
   <a href="">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/ilyas-kritet-697a571b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank" />
   </a>
   <a href="https://k-ilyas.github.io/portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="40" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  
+    <a href="https://codepen.io/ilyas99" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://k-ilyas.github.io/portfolio/" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
 </div>
 </div>
 <h1 align="center">💻 Languages-Frameworks-Tools ⚒️</h1>
